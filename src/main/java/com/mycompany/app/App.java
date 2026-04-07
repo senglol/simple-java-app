@@ -10,7 +10,7 @@ public class App {
     public App() {}
 
     public static void main(String[] args) {
-        System.out.println("magic lai lai lai 123");
+        System.out.println("magic lai lai lai 321");
     }
 
     public String getMessage() {
